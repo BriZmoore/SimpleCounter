@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 * [x] Button has a custom icon
 
 ## Video Walkthrough
- ![Kapture 2025-08-29 at 18 46 40](https://github.com/user-attachments/assets/f5280d30-6d50-4e97-8a29-39e66893ff1b)
+![Kapture 2025-08-29 at 18 46 40](https://github.com/user-attachments/assets/50df1ca4-ea8c-47cd-9608-82135bddebc7)
+
 
 Here's a walkthrough of implemented features:
 
